@@ -1,0 +1,11 @@
+*.npy
+/__pycache__
+/.ipynb_checkpoints
+/data
+*.pyc
+ __pycache__/
+/scripts 
+/runs
+
+
+
